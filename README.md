@@ -10,7 +10,7 @@ In this project we decreased number of rules in fuzzy neural network (FNN) by so
 
 # Optimization functions:
 
-1. Regression:
+1.**Regression:**
   
 we have N training samples, so we write the optimization function as :
 
