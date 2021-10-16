@@ -35,7 +35,7 @@ and
 
 ### 3.**MultiClass Classification :** 
 
-<img src="https://user-images.githubusercontent.com/50669689/137602476-6c5e284e-2471-40ef-ae67-c6b6139df2bc.png" width="300" height="330">
+<img src="https://user-images.githubusercontent.com/50669689/137602476-6c5e284e-2471-40ef-ae67-c6b6139df2bc.png" width="370" height="330">
 
 
 that 
