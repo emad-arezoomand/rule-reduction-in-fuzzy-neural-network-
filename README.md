@@ -6,7 +6,7 @@ Runtime Reduction in Fuzzy Neural Network by reducing number of rules using an o
 In this project we decreased number of rules in fuzzy neural network (FNN) by solving an optimization problem. this task is preformed for Regression and Classification (Binary /Multi class) problems. we used pulp library for the optimization problem task in Linear Programming (LP). in our approach we have absolute operation in the optimization function. but in LP we can't use absolute of a variable, so we redefine it as follow:
 
 
-![image](https://user-images.githubusercontent.com/50669689/137601017-a49fabb6-7641-4eb5-910b-bb964c066bf6.png) {:height="700px" width="400px"}
+![image](https://user-images.githubusercontent.com/50669689/137601017-a49fabb6-7641-4eb5-910b-bb964c066bf6.pngs=200)
 
 # Optimization functions:
 
