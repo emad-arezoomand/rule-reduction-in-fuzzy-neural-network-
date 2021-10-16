@@ -40,6 +40,6 @@ and
 
 that 
 
-<img src="https://user-images.githubusercontent.com/50669689/137602480-49330113-2aa3-429e-b794-8aeb1421cb18.png" width="200" height="60">
+<img src="https://user-images.githubusercontent.com/50669689/137602480-49330113-2aa3-429e-b794-8aeb1421cb18.png" width="200" height="100">
 
 
