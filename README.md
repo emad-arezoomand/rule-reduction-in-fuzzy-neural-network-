@@ -19,7 +19,7 @@ we have N training samples, so we write the optimization function as :
 
 that 
 
-<img src="https://user-images.githubusercontent.com/50669689/137600905-af331c22-e075-4f06-82a8-571f1410834e.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/50669689/137600905-af331c22-e075-4f06-82a8-571f1410834e.png" width="200" height="200">
 
 
 and 
