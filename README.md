@@ -14,12 +14,12 @@ In this project we decreased number of rules in fuzzy neural network (FNN) by so
   
 we have N training samples, so we write the optimization function as :
 
-<img src="https://user-images.githubusercontent.com/50669689/137600904-f7f783bb-e473-4914-ad0b-23c7e48c7251.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/50669689/137600904-f7f783bb-e473-4914-ad0b-23c7e48c7251.png" width="300" height="300">
 
 
 that 
 
-<img src="https://user-images.githubusercontent.com/50669689/137600905-af331c22-e075-4f06-82a8-571f1410834e.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/50669689/137600905-af331c22-e075-4f06-82a8-571f1410834e.png" width="150" height="100">
 
 
 and 
