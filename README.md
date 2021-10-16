@@ -24,7 +24,7 @@ that
 
 and 
 
-<img src="https://user-images.githubusercontent.com/50669689/137600910-455cd1e8-aed3-438b-aead-7cff44a2885e.png" width="200" height="80">
+<img src="https://user-images.githubusercontent.com/50669689/137600910-455cd1e8-aed3-438b-aead-7cff44a2885e.png" width="200" height="50">
 
 
 ### 2.**Binary Classification :** 
