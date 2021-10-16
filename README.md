@@ -9,9 +9,9 @@ In this project we decreased number of rules in fuzzy neural network (FNN) by so
 
 
 
-### Optimization functions:
+### Optimization functions :
 
-### 1.**Regression:**
+### 1.**Regression :**
   
 we have N training samples, so we write the optimization function as :
 
@@ -26,6 +26,15 @@ that
 and 
 
 ![image](https://user-images.githubusercontent.com/50669689/137600910-455cd1e8-aed3-438b-aead-7cff44a2885e.png)
+
+
+### 2.**Binary Classification :** 
+
+![image](https://user-images.githubusercontent.com/50669689/137602457-a98372d0-cc68-4b25-9294-e1a00dd47f7e.png)
+
+
+### 3.**MultiClass Classification :** 
+
 
 
 
