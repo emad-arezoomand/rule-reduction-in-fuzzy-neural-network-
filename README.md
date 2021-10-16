@@ -1,4 +1,5 @@
 # rule reduction in fuzzy neural network 
+
 Runtime Reduction Of a RBF Fuzzy Neural Network by reducing number of rules using a Linear programming optimization approach
 Runtime Reduction in Fuzzy Neural Network by reducing number of rules using an optimization approach
 
@@ -6,4 +7,24 @@ In this project we decreased number of rules in fuzzy neural network (FNN) by so
 
 
 ![image](https://user-images.githubusercontent.com/50669689/137600824-1c23556b-a9d2-421b-a95d-d1b293ad1b08.png)
+
+# Optimization functions:
+
+  Regression:
+  
+we have N training samples, so we write the optimization function as :
+
+![image](https://user-images.githubusercontent.com/50669689/137600904-f7f783bb-e473-4914-ad0b-23c7e48c7251.png)
+
+
+that 
+
+![image](https://user-images.githubusercontent.com/50669689/137600905-af331c22-e075-4f06-82a8-571f1410834e.png)
+
+
+and 
+
+![image](https://user-images.githubusercontent.com/50669689/137600910-455cd1e8-aed3-438b-aead-7cff44a2885e.png)
+
+
 
