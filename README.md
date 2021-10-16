@@ -7,7 +7,7 @@ In this project we decreased number of rules in fuzzy neural network (FNN) by so
 
 <img src="https://user-images.githubusercontent.com/50669689/137601017-a49fabb6-7641-4eb5-910b-bb964c066bf6.png" width="120" height="100">
 
-# Optimization functions:
+### Optimization functions:
 
 1.**Regression:**
   
