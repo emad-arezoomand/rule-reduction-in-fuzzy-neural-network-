@@ -35,11 +35,11 @@ and
 
 ### 3.**MultiClass Classification :** 
 
-<img src="https://user-images.githubusercontent.com/50669689/137602476-6c5e284e-2471-40ef-ae67-c6b6139df2bc.png" width="200" height="230">
+<img src="https://user-images.githubusercontent.com/50669689/137602476-6c5e284e-2471-40ef-ae67-c6b6139df2bc.png" width="300" height="330">
 
 
 that 
 
-<img src="https://user-images.githubusercontent.com/50669689/137602480-49330113-2aa3-429e-b794-8aeb1421cb18.png" width="200" height="100">
+<img src="https://user-images.githubusercontent.com/50669689/137602480-49330113-2aa3-429e-b794-8aeb1421cb18.png" width="200" height="60">
 
 
