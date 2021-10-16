@@ -14,7 +14,7 @@ In this project we decreased number of rules in fuzzy neural network (FNN) by so
   
 we have N training samples, so we write the optimization function as :
 
-<img src="https://user-images.githubusercontent.com/50669689/137600904-f7f783bb-e473-4914-ad0b-23c7e48c7251.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/50669689/137600904-f7f783bb-e473-4914-ad0b-23c7e48c7251.png" width="250" height="300">
 
 
 that 
